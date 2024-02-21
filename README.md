@@ -7,10 +7,10 @@
 El objetivo principal de este repositorio es fomentar la colaboración y el aprendizaje conjunto mediante sesiones de pair programming. En cada notebook, hemos trabajado juntas en la resolución de problemas, compartiendo conocimientos y habilidades para mejorar la comprensión y el dominio de Python.
 
 ### Contenido del Repositorio
-    Pair_programming_1_Bucles.ipynb: Notebook de pair programming enfocado en la práctica y comprensión de bucles en Python.
-    Pair_programming_2_Funciones.ipynb: Sesión de pair programming centrada en el diseño y aplicación de funciones en Python.
-    Pair_programming_3_Clases.ipynb: Notebook donde se exploran y aplican conceptos de programación orientada a objetos mediante la creación y uso de clases en Python.
-    Pair_programming_4_Expresiones.ipynb: Sesión de pair programming que aborda el uso de expresiones y operadores en Python para realizar cálculos y manipulaciones de datos.
+    Pair_programming_1_listas_tuplas.ipynb: Notebook de pair programming enfocado en la práctica y comprensión de bucles en Python.
+    Pair_programming_2_diccionarios.ipynb: Sesión de pair programming centrada en el diseño y aplicación de funciones en Python.
+    Pair_programming_3_variables.ipynb: Notebook donde se exploran y aplican conceptos de programación orientada a objetos mediante la creación y uso de clases en Python.
+    Pair_programming_4_sentencias.ipynb: Sesión de pair programming que aborda el uso de expresiones y operadores en Python para realizar cálculos y manipulaciones de datos.
 
 ### Cómo Utilizar los Notebooks
 Clona este repositorio en tu máquina local usando el siguiente comando:
